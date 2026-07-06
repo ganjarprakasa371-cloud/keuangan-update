@@ -197,7 +197,7 @@ logout(){
 localStorage.clear();
 
 window.location=
-"login.html";
+"index.html";
 
 }
 

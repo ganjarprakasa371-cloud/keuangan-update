@@ -5,7 +5,7 @@ Utils.getUser();
 
 if(!user){
 
-window.location="login.html";
+window.location="index.html";
 
 }
 
